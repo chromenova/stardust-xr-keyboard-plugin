@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>KeyboardPlugin/Icon.gltf</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+{
+  "name": "SampleKeyboard",
+  "type": "keyboard",
+  "developer": "Someone",
+  "developer": "This is a template plugin for you to create into your own amazing keyboard!",
+  "iconScenePath": "qrc:/KeyboardPlugin/Icon.gltf"
+}
